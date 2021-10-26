@@ -4,4 +4,4 @@
 
 This repo is just to track issues from github, since most users have an account here.
 
-It is much more prefered to use [Codeberg](https://codeberg.org/pluja) for issues as it will be more reguarly checked.
+It is prefered to use [Codeberg](https://codeberg.org/pluja) for issues as it will be more reguarly checked.
